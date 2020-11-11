@@ -16,7 +16,7 @@ class Connect
           ["-","-","-","-","-","-","-"]
         ]
     @colful = [false,false,false,false,false,false,false]
-  end
+  end  
 
 
   def draw_board
