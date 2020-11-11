@@ -1,13 +1,8 @@
 # Connect4
 Very inefficiently coded game of Connect 4!
-Updated ON TESTING HERE
-Let's do an edit for Git
 
-<<<<<<< HEAD
-We are now BACK in master
-How about now?
 
-=======
-TESTING to fix below
-Testing: Edited 123,456
->>>>>>> testing
+Updated - did some testing with various versions of Gits and branches to get back to the main branch!
+
+
+Welcome to command-line connect 4! I hope you find your way around with joy :)
